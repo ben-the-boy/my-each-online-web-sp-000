@@ -8,7 +8,7 @@ def my_each(array)
     
     array
   else
-    puts "No collection found."
+    return "No collection found."
   end
 end
 
